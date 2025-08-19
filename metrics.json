@@ -1,0 +1,155 @@
+[
+  {
+    "mode": "wasm",
+    "processed_fps": 2.94,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 6.25,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T12:35:01.964Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 6.25,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T12:35:06.938Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 7.3,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T12:36:15.995Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 7.38,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T12:36:16.670Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 6,
+    "e2e_latency_ms": {
+      "median": 2165,
+      "p95": 2249
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T13:06:45.393Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 6.56,
+    "e2e_latency_ms": {
+      "median": 2146,
+      "p95": 2217
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T13:07:37.403Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 8.28,
+    "e2e_latency_ms": {
+      "median": 2141,
+      "p95": 2200
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T13:09:23.673Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 0,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T14:05:43.161Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 0,
+    "e2e_latency_ms": {
+      "median": null,
+      "p95": null
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T14:05:44.692Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 3.23,
+    "e2e_latency_ms": {
+      "median": 2139,
+      "p95": 2189
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T14:13:47.346Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 4.78,
+    "e2e_latency_ms": {
+      "median": 2174,
+      "p95": 2209
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T17:20:22.238Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 6.54,
+    "e2e_latency_ms": {
+      "median": 2167,
+      "p95": 2224
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T17:21:11.371Z"
+  },
+  {
+    "mode": "wasm",
+    "processed_fps": 8.15,
+    "e2e_latency_ms": {
+      "median": 2154,
+      "p95": 2212
+    },
+    "uplink_kbps": null,
+    "downlink_kbps": null,
+    "timestamp": "2025-08-19T17:38:51.686Z"
+  }
+]
