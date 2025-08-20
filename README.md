@@ -155,7 +155,7 @@ Detection results are sent per frame as JSON (over DataChannel or WebSocket):
 
 ## Loom Video
 
-- [Loom demo link]([#](https://www.loom.com/share/59fb621b987b47d5a6b8e997ef7ccbed?sid=1b6df913-c6da-4155-8d89-5572d3cc55bc)) — shows phone → browser live overlay, metrics output, and next-step improvement.
+- [Loom demo link]([https://www.loom.com/share/59fb621b987b47d5a6b8e997ef7ccbed?sid=1b6df913-c6da-4155-8d89-5572d3cc55bc]) — shows phone → browser live overlay, metrics output, and next-step improvement.
 
 ---
 
